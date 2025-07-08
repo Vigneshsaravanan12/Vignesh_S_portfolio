@@ -4,37 +4,37 @@ Hi! I'm Vignesh S, a passionate Data Analyst skilled in Python, Power BI, SQL, E
 
 ---
 
-## 🔍 1. AI-Powered Text Analyzer
-- A Natural Language Processing app using Python, NLTK, and Streamlit
-- Performs sentiment analysis, keyword extraction, and summarization
-- 📂 [View Project](https://github.com/Vigneshsaravanan12/AI-Powered-Text-Analyzer)
-
----
-
-## 🛒 2. Market Basket Analysis (Apriori & FP-Growth)
-- Performed association rule mining using Python
-- Identified customer purchasing patterns and made business recommendations
-- 📂 [View Project](https://github.com/Vigneshsaravanan12/Market-Basket-Analysis)
-
----
-
-## 🧑‍💼 3. HR Analytics Dashboard (Power BI)
+## 🧑‍💼 1. HR Analytics Dashboard (Power BI)
 - Visualized employee distribution, attrition rate, salary analysis, etc.
 - Built using slicers, KPI cards, pie and combo charts
 - 📂 [View Dashboard](https://github.com/Vigneshsaravanan12/HR-Analytics-Dashboard-Power-BI)
-
+  
 ---
 
-## 📈 4. Sales Dashboard (Google Looker Studio)
+## 📈 2. Sales Dashboard (Google Looker Studio)
 - Analyzed sales data using SQL, then built an interactive Looker Studio dashboard
 - Includes filters, KPIs, bar charts, and category insights
 - 📂 [View Dashboard](https://github.com/Vigneshsaravanan12/Looker-Sales-Dashboard)
 
 ---
 
+## 🛒 3. Market Basket Analysis (Apriori & FP-Growth)
+- Performed association rule mining using Python
+- Identified customer purchasing patterns and made business recommendations
+- 📂 [View Project](https://github.com/Vigneshsaravanan12/Market-Basket-Analysis)
+
+---
+
+## 🔍 4. AI-Powered Text Analyzer
+- A Natural Language Processing app using Python, NLTK, and Streamlit
+- Performs sentiment analysis, keyword extraction, and summarization
+- 📂 [View Project](https://github.com/Vigneshsaravanan12/AI-Powered-Text-Analyzer)
+
+---
+
 ## 📬 Contact
-- **Email:** vignesh.cse00@gmail.com  
-- **LinkedIn:** [linkedin.com/in/vigneshsaravanan12](https://www.linkedin.com/in/vigneshsaravanan12/)  
+- **Email:** vickyvicky0812003@gmail.com  
+- **LinkedIn:** [linkedin.com/in/vignesh-s-14273a334](https://www.linkedin.com/in/vignesh-s-14273a334)
 - **Resume:** [Available upon request]
 
 ---
